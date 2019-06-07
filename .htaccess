@@ -1,0 +1,26 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+#General pages
+RewriteRule ^admin*       index.php?page=admin
+RewriteRule ^account*     index.php?page=account
+RewriteRule ^login*       index.php?page=login
+RewriteRule ^register*    index.php?page=register
+RewriteRule ^winkelwagen* index.php?page=cart
+RewriteRule ^afrekenen*   index.php?page=checkout
+RewriteRule ^informatie*  index.php?page=information
+RewriteRule ^contact*     index.php?page=contact
+
+
+
+#category pages
+RewriteRule ^categorie/kleding*     index.php?page=category&category=clothes
+RewriteRule ^categorie/schoenen*    index.php?page=category&category=shoes
+RewriteRule ^categorie/accessoires* index.php?page=category&category=accessories
+RewriteRule ^categorie/merken*      index.php?page=category&category=brands
+
+
+
+
+
