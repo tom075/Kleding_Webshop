@@ -9,12 +9,13 @@ De opdrachtgever voor de opdracht is het mediacollege Amsterdam en de doelgroep 
 
 #### Structuur
 Ik ga een webshop maken voor herenkleding. Waarbij een homepagina, categorie pagina, product pagina en een winkelmandje komt.
-Ook komt er een contact pagina op de website samen met een klantgegevens pagina.
+Ook komt er een informatie en contact pagina op de website samen met een klantgegevens pagina.
 
 #### Seo
+Voor de seo maak ik gebruik van meta keywords, descriptions, robots en title. Maar ook maak ik gebruik van een robot.txt, sitemap.xml en een httacces bestand zodat de url gebruikers vriendelijk zijn en dat de website altijd een https url heeft
 
 #### Technisch
-Het doel van de opdracht is om de front-end van de webshop te maken voor het mediacollege Amsterdam. Hiervoor ga ik gebruik maken van html, css, js en php. Ook ga ik gebruik maken van het framework bootstrap en jquery. Ik heb al aardig wat kennis met bootsrap. Ik moet wel nog het een leren van jquery.
+Het doel van de opdracht is om de front-end van de webshop te maken voor het mediacollege Amsterdam. Hiervoor ga ik gebruik maken van html, css, js en php. Ook ga ik gebruik maken van het framework tailwind en een module slippry slider. Ik heb al aardig wat kennis met slippry. Ik moet wel nog het een leren van tailwind.
 
 
 
@@ -35,3 +36,6 @@ Het doel van de opdracht is om de front-end van de webshop te maken voor het med
 | 21-jun                     |  Tussentijdse presentatie              |
 | 27-jun                     |  Alle examenproducten zijn op 27 jun ingeleverd voor 17:00 uur.    |
 | 28 juni                      |  Eindpresentaties en beoordelingen             |
+
+#### Site url
+[klik hier](https://tom-folkers.nl/projecten/kleding_webshop/)
