@@ -14,8 +14,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
@@ -31,8 +31,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
@@ -48,8 +48,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
@@ -65,8 +65,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
@@ -82,8 +82,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
@@ -99,8 +99,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>

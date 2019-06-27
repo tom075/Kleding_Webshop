@@ -12,6 +12,8 @@ RewriteRule ^afrekenen*   index.php?page=checkout
 RewriteRule ^informatie*  index.php?page=information
 RewriteRule ^contact*     index.php?page=contact
 RewriteRule ^merken*      index.php?page=brands
+RewriteRule ^product*      index.php?page=product
+
 
 
 

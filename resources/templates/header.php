@@ -46,7 +46,6 @@ $content = json_decode($strJsonFileContents, true);
             <a href="/projecten/kleding_webshop/categorie/kleding" class="<?php if($page == "clothes"){echo "active";} ?> lg:inline-block block font-bold w-auto text-lg no-underline self-left text-grey-darker hover:text-red-600 ml-2 px-1 pb-1">Kleding</a>
             <a href="/projecten/kleding_webshop/categorie/schoenen" class="<?php if($page == "shoes"){echo "active";} ?> lg:inline-block block font-bold text-lg no-underline self-left text-grey-darker hover:text-red-600 ml-2 px-1 pb-1">Schoenen</a>
             <a href="/projecten/kleding_webshop/categorie/accessoires" class="<?php if($page == "accessories"){echo "active";} ?> lg:inline-block block font-bold text-lg no-underline self-left text-grey-darker hover:text-red-600 ml-2 px-1 pb-1">Accessoires</a>
-            <a href="/projecten/kleding_webshop/merken" class="<?php if($page == "brands"){echo "active";} ?>  lg:inline-block block font-bold text-lg no-underline self-left text-grey-darker hover:text-red-600 ml-2 px-1 pb-1">Merken</a>
             <a href="/projecten/kleding_webshop/informatie" class="<?php if($page == "information"){echo "active";} ?> lg:inline-block block font-bold text-lg no-underline self-left text-grey-darker hover:text-red-600 ml-2 px-1 pb-1">Informatie</a>
         </div>
 

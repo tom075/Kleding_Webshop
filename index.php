@@ -26,20 +26,23 @@ if($_GET["page"] == "contact")
 {
     require_once("resources/templates/header.php");
     require_once("resources/templates/contact.php");
-    require_once("resources/templates/footer.php");
 }
 
 if($_GET["page"] == "cart")
 {
     require_once("resources/templates/header.php");
     require_once("resources/templates/cart.php");
-    require_once("resources/templates/footer.php");
 }
 
 if($_GET["page"] == "checkout")
 {
     require_once("resources/templates/header.php");
     require_once("resources/templates/checkout.php");
+}
+if($_GET["page"] == "product")
+{
+    require_once("resources/templates/header.php");
+    require_once("resources/templates/product.php");
     require_once("resources/templates/footer.php");
 }
 

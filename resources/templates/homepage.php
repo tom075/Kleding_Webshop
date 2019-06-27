@@ -14,7 +14,7 @@
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/broek.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/broek.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -23,15 +23,15 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/hemd.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/hemd.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -40,15 +40,15 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/korteBroek.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/korteBroek.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -57,15 +57,15 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/schoen.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/schoen.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -74,15 +74,15 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/shirt.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/shirt.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -91,15 +91,15 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
         <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
             <article class="overflow-hidden rounded-lg shadow-lg">
                 <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="img/content/jas.jpg">
+                    <img alt="men's only images" class="block h-auto w-full" src="img/content/jas.jpg">
                 </a>
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <div class="text-lg flex w-full">
@@ -108,8 +108,8 @@
                     </div>
                 </header>
                 <footer class="flex">
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">Bekijk product</button>
-                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border">In winkelwagen</button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/product">Bekijk product</a></button>
+                    <button class="btn w-1/2 bg-gray-200 hover:bg-red-600 hover:text-white p-3 border"><a href="/projecten/kleding_webshop/winkelwagen">In winkelwagen</a></button>
                 </footer>
             </article>
         </div>
