@@ -11,6 +11,7 @@ RewriteRule ^winkelwagen* index.php?page=cart
 RewriteRule ^afrekenen*   index.php?page=checkout
 RewriteRule ^informatie*  index.php?page=information
 RewriteRule ^contact*     index.php?page=contact
+RewriteRule ^merken*      index.php?page=brands
 
 
 
@@ -18,7 +19,6 @@ RewriteRule ^contact*     index.php?page=contact
 RewriteRule ^categorie/kleding*     index.php?page=category&category=clothes
 RewriteRule ^categorie/schoenen*    index.php?page=category&category=shoes
 RewriteRule ^categorie/accessoires* index.php?page=category&category=accessories
-RewriteRule ^categorie/merken*      index.php?page=category&category=brands
 
 
 

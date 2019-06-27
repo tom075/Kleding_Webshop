@@ -7,3 +7,5 @@
         <input type="text" class="p-2 border text-gray-900  round text-grey-dark" placeholder="Email adres">
         <button class="bg-white text-gray-900 p-2 ">Abboneer</button>    </div>
 </div>
+</body>
+</html>

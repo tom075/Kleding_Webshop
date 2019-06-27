@@ -1,0 +1,117 @@
+{
+
+  "home": {
+    "meta": {
+      "title": "",
+      "keywords": "men's only kleding, kleding, kleding kopen,kleding webshop",
+      "description": "Welkom bij men's only, de nummer een kleding winkel voor mannen"
+    },
+    "content": {
+      "title": "Kleding",
+      "description": "Op deze pagina vind u alle kleding van men's only. Denk hierbij aan shirts, broeken en nog veel meer."
+    }
+  },
+  "clothes": {
+    "meta": {
+      "title": " - kleding",
+      "keywords": "men's only kleding, kleding, kleding kopen, shirts, broeken,kleding webshop",
+      "description": "Op deze pagina vind u alle kleding van men's only. Denk hierbij aan shirts, broeken en nog veel meer."
+    },
+    "content": {
+      "title": "Kleding",
+      "description": "Op deze pagina vind u alle kleding van men's only. Denk hierbij aan shirts, broeken en nog veel meer."
+    }
+  },
+
+  "shoes": {
+    "meta": {
+      "title": " - Schoenen",
+      "keywords": "men's only kleding, kleding, kleding kopen, schoenen, sneakers,kleding webshop",
+      "description": "Op deze pagina vind u alle schoenen van men's only. Denk hierbij aan schoenen voor het werk of sport."
+    },
+    "content": {
+      "title": "Schoenen",
+      "description": "Op deze pagina vind u alle schoenen van men's only. Denk hierbij aan schoenen voor het werk of sport."
+    }
+  },
+
+  "accessories": {
+    "meta": {
+      "title": " - Accessoires",
+      "keywords": "men's only kleding, kleding, kleding kopen, Accessoires, zonnebrillen, riemen, kleding webshop",
+      "description": "Op deze pagina vind u alle Accessoires van men's only. Denk hierbij aan zonnebrillen, riemen en nog veel meer."
+    },
+    "content": {
+      "title": "Accessoires",
+      "description": "Op deze pagina vind u alle Accessoires van men's only. Denk hierbij aan zonnebrillen, riemen en nog veel meer."
+    }
+  },
+
+  "brands": {
+    "meta": {
+      "title": " - Merken",
+      "keywords": "men's only kleding, kleding, kleding kopen, merken, brands,kleding webshop",
+      "description": "Op deze pagina vind u alle merken men's only"
+    },
+    "content": {
+      "title": "Merken",
+      "description": "Op deze pagina vind u alle merken men's only"
+    }
+  },
+
+  "information": {
+    "meta": {
+      "title": " - Informatie",
+      "keywords": "men's only kleding, kleding, kleding kopen, info, Informatie,kleding webshop",
+      "description": "Op deze pagina vind u alle informatie over men's only"
+    }
+  },
+
+  "cart": {
+    "meta": {
+      "title": " - Winkelwagen",
+      "keywords": "men's only kleding, kleding, kleding kopen, winkelwagen, cart,kleding webshop",
+      "description": "Bekijk al u producten in uw winkelwagen bij men's only"
+    }
+  },
+
+  "checkout": {
+    "meta": {
+      "title": " - Afrekenen",
+      "keywords": "men's only kleding, kleding, kleding kopen, betalen, afrekenen,kleding webshop",
+      "description": "Afrekenen bij men's only in slechts een paar klikken"
+    }
+  },
+
+  "contact": {
+    "meta": {
+      "title": " - Contact",
+      "keywords": "men's only kleding, kleding, kleding kopen, adres, contect,kleding webshop",
+      "description": "U kunt 24 uur per dag contact opnemen met men's only"
+    }
+  },
+
+  "login": {
+    "meta": {
+      "title": " - Login",
+      "keywords": "men's only kleding, kleding, kleding kopen, login, inloggen,kleding webshop",
+      "description": "op deze pagina kunt u inloggen met u account van men's only"
+    }
+  },
+
+  "account": {
+    "meta": {
+      "title": " - Account",
+      "keywords": "men's only kleding, kleding, kleding kopen, shirts, account,gegevens webshop",
+      "description": "Beheer je account van men's only op deze pagina"
+    }
+  },
+
+  "register": {
+    "meta": {
+      "title": " - Registreren",
+      "keywords": "men's only kleding, kleding, kleding kopen, register, Registreren,kleding webshop",
+      "description": "Maak een gratis account aan voor men's only"
+    }
+  }
+}

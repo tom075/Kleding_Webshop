@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /projecten/kleding_webshop/resources/
+Disallow: /projecten/kleding_webshop/js/
+Disallow: /projecten/kleding_webshop/img/
+Disallow: /projecten/kleding_webshop/css/
+
+Sitemap: https://tom-folkers.nl/projecten/kleding_webshop/sitemap.xml

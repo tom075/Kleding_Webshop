@@ -2,6 +2,7 @@
 
 if($_GET["page"] == "")
 {
+    $page = "home";
     require_once("resources/templates/header.php");
     require_once("resources/templates/homepage.php");
     require_once("resources/templates/footer.php");
@@ -55,7 +56,6 @@ if($_GET["page"] == "login")
 {
     require_once("resources/templates/header.php");
     require_once("resources/templates/login.php");
-    require_once("resources/templates/footer.php");
 }
 
 
@@ -63,13 +63,13 @@ if($_GET["page"] == "register")
 {
     require_once("resources/templates/header.php");
     require_once("resources/templates/register.php");
-    require_once("resources/templates/footer.php");
 }
 
-
-if($_GET["page"] == "admin")
+if($_GET["page"] == "brands")
 {
-    require_once("resources/templates/admin.php");
+    require_once("resources/templates/header.php");
+    require_once("resources/templates/brands.php");
+    require_once("resources/templates/footer.php");
 }
 
 

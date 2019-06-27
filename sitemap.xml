@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/categorie/kleding</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/categorie/schoenen</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/categorie/accessoires</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/merken</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/informatie</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/account</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/winkelwagen</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/contact</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://tom-folkers.nl/projecten/kleding_webshop/afrekenen</loc>
+        <lastmod>2019-06-25</lastmod>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.5</priority>
+    </url>
+</urlset>
